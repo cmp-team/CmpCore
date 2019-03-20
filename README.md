@@ -1,1 +1,1 @@
-CMP Core v.1.0.0
+CMP Core v.1.0.1
